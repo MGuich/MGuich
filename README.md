@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [SONEL](https://www.sonel.org) and several [LRUniv](http://www.univ-larochelle.fr/) apps !
+🔭 I’m currently working on [SONEL](https://www.sonel.org) and severals [LRUniv](http://www.univ-larochelle.fr/) apps!
